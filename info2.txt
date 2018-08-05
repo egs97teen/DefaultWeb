@@ -13,3 +13,11 @@ Commit # 6 for squash activity
 Commit # 7 for squash activity
 
 Commit # 8 for squash activity
+
+Commit # 9 for squash activity
+
+Commit # 10 for squash activity
+
+Commit # 11 for squash activity
+
+Commit # 12 for squash activity
